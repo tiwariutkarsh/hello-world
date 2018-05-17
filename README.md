@@ -1,2 +1,3 @@
 # hello-world
-first repository
+wassup you guys!
+This is just to test how the site works.
